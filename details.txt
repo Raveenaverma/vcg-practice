@@ -1,2 +1,2 @@
-Title: my project
-version: 1
+Title: my updated project
+version: 2
